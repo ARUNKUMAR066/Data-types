@@ -1,0 +1,27 @@
+a=3
+pi=3.14
+b=(3!=2)
+c="2.5"
+d,e=5,6
+print(type(a))
+print(type(pi))
+print(type(b))
+print(type(c))
+num1=int(a)
+print('integer number:',num1)
+num2=float(pi)
+print('float number:',num2)
+num3=bool(b)
+print('boolean number:',num3)
+num9=complex(d,e)
+print('complex number:',num9)
+num7=str(c)
+print('string:',num7)
+num4=float(a)
+print('float number:',num4)
+num5=int(pi)
+print('integer number:',num5)
+num6=complex(b)
+print('complex number:',num6)
+num8=float(c)
+print('float number:',num8)
